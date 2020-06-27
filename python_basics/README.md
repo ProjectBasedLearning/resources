@@ -1,10 +1,10 @@
 # python_basics
 
-- [Python Crash Course by Brad Traversy](https://www.youtube.com/watch?v=JJmcL1N2KQs&t=101s) (Covers all basics)
-
 ## Task 1
 
 - [Install Python](https://www.youtube.com/watch?v=wp15jyylSEQ)
+
+- [Python Crash Course by Brad Traversy](https://www.youtube.com/watch?v=JJmcL1N2KQs&t=101s) (Covers all basics)
 
 ## Task 2
 
@@ -16,9 +16,9 @@
 
 ## Task 3
 
-- Hangman game (Try to customize the game yourself. **Please do not to copy the code.** )
+- Hangman game (Try to customize the game yourself. **Please do not to copy the code.**)
    - Click [here](https://www.youtube.com/watch?v=PpoBVCagFo4) to watch the video.
-   - The code uses these concepts:
+   - The code uses the following concepts
       - [List](https://www.youtube.com/watch?v=ohCDWZgNIU0)
       - [Random](https://www.youtube.com/watch?v=JloQCKZZFc0)
       - [Functions](https://www.youtube.com/watch?v=BVfCWuca9nw)
