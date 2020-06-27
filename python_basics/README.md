@@ -16,7 +16,7 @@
 
 ## Task 3
 
-- Hangman game [try to customize the game according to yourself **do not to copy the code** 
+- Hangman game [try to customize the game according to yourself **do not to copy the code** ]
 [click here to watch the video](https://www.youtube.com/watch?v=PpoBVCagFo4])
 
 The code uses these concepts:
