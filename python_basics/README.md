@@ -21,6 +21,6 @@ the code uses these concepts \
 [Random](https://www.youtube.com/watch?v=JloQCKZZFc0)\
 [Functions](https://www.youtube.com/watch?v=BVfCWuca9nw)
 
-  You are free to make any other project too using these key concepts here is one more example: [A Restaurant Billing system](https://github.com/HarshKapadia2/Restaurant-Billing-Python)
+  You are free to make any other project using these key concepts. Here is one more example: [A Restaurant Billing system](https://github.com/HarshKapadia2/Restaurant-Billing-Python)
 
 ---
