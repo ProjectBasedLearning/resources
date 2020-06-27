@@ -13,7 +13,7 @@
   * Step 1: [Anaconda installation](https://www.anaconda.com/products/individual) 
   * Step 2: [How to use jupyter](https://www.youtube.com/watch?v=-MyjG00la2k)
 
-> [] ## Task 3: 
+>  ## Task 3: 
 - Hangman game [try to customize the game according to yourself **do not to copy the code** 
 [click here to watch the video](https://www.youtube.com/watch?v=PpoBVCagFo4])\
 the code uses these concepts \
