@@ -8,3 +8,4 @@
 - [More on OOP](https://realpython.com/python3-object-oriented-programming/)
 - [SQL Connectivity](https://www.youtube.com/watch?v=vR5utJvN4JY)
 - [Exception Handling in python](https://youtu.be/MImAiZIzzd4)
+- [Tkinter (optional)](https://youtu.be/VMP1oQOxfM0)
