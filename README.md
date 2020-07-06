@@ -1,5 +1,6 @@
 # *Resources*
 
+- [Git & GitHub](git_github/git_basics.md)
 - [Week 1 - Python basics](python_basics/python_basics_1.md)
 - [Week 2 - Python basics](python_basics/python_basics_2.md)
 
