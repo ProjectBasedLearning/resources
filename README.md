@@ -3,7 +3,7 @@
 - [Git & GitHub](git_github/git_basics.md)
 - [Week 1 - Python basics](python_basics/python_basics_1.md)
 - [Week 2 - Python basics](python_basics/python_basics_2.md)
-- [Week 3 - Data Pre-processing]()
+- [Week 3 - Data Pre-processing](https://github.com/ProjectBasedLearning/resources/blob/master/data%20science/data%20preprocessing.md)
 
 ## Importance of *Project Based Learning:*
 Projects can help you:
