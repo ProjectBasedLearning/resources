@@ -2,7 +2,7 @@
 
 Welcome to week 3 of PBL!
 
-Data preprocessing our first step in the world of data. It will sound simple at first, but this is actually the most crucial work done by a data scientist. All you need is an appropriate dataset and bags full of patience. Do not worry we got you covered! 😀
+Data preprocessing our first step in the world of data. It will sound simple at first, but this is actually the most crucial work done by a data scientist. All you need is an appropriate dataset and bags full of patience. Don't worry, we got you covered! 😀
 
 - [An overview of data preprocessing](https://towardsdatascience.com/data-preprocessing-3cd01eefd438)
 - [Get familiar with your data](https://www.kaggle.com/dansbecker/basic-data-exploration)
