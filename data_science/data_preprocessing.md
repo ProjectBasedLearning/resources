@@ -14,5 +14,5 @@ Data preprocessing our first step in the world of data. It will sound simple at 
 
 ## Kaggle guides
 
-- [An example and a guide for data preprocessing](https://www.kaggle.com/anirban7/data-preprocessing-for-beginners)
+- [Data preprocessing walk through using titanic dataset.](https://www.kaggle.com/anirban7/data-preprocessing-for-beginners)
 - [An example and a guide for data visualiszation](https://www.kaggle.com/residentmario/welcome-to-data-visualization)
