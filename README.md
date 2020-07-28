@@ -4,7 +4,7 @@
 - [Week 1 - Python basics](python_basics/python_basics_1.md)
 - [Week 2 - Python basics](python_basics/python_basics_2.md)
 - [Week 3 - Data Pre-processing](data_science/data_preprocessing.md)
-
+- [Week 4 - Data visualization](data_science/data-visualisation.md)
 ## Importance of *Project Based Learning:*
 Projects can help you:
 
