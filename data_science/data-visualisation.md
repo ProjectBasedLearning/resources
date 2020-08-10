@@ -20,4 +20,4 @@ We will be using Matplotlib and Seaborn.
 
 ### one can find n number of datasets on kaggle to practice visualization and processing. Here is the [link](https://www.kaggle.com/datasets)
 
-### Note: One can use processed datasets from week 3 or use any other dataset and follow the preocess.
+### Note: One can use processed datasets from week 3 or use any other dataset and follow the process.
