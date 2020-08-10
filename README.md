@@ -6,6 +6,7 @@
 - [Week 3 - Data Pre-processing](data_science/data_preprocessing.md)
 - [Week 4 - Data visualization](data_science/data-visualisation.md)
 - [Week 5 - Data pre-processing and visualization(Large dataset)](data_science/data-visualisation.md)
+- [Week 6 - Linear Regression]()
 ## Importance of *Project Based Learning:*
 Projects can help you:
 
