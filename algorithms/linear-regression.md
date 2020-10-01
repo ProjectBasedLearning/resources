@@ -5,7 +5,7 @@ This week we will be focusing on the most basic algorithm in machine learning, w
 
 ## Youtube links:
 
-- Why do we do Linear regression?[here.](https://youtu.be/lzGKRSvs5HM)
+- Why do we do Linear regression?[here .](https://youtu.be/lzGKRSvs5HM)
 
 - Math and logic behind the algorithm [here.](https://youtu.be/nk2CQITm_eo)
 
